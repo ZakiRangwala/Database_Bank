@@ -1,5 +1,5 @@
 # Database_Bank
-Java Bank Interface using SQL Server as Backend, <a href="https://https://www.loom.com/share/a43a50930e8b4da8916ddb8d6f5ce99e">Learn more by watching my interactive video here</a>
+Java Bank Interface using SQL Server as Backend, <a href="www.loom.com/share/a43a50930e8b4da8916ddb8d6f5ce99e">Learn more by watching my interactive video here</a>
 # Source Code
 In this repository you will find all the source code for the program as well as the <a href='Bank_Database.bak'>Database back up file</a>
 
