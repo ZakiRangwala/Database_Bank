@@ -4,6 +4,7 @@ Java Bank Interface using SQL Server as Backend
 In this repository you will find all the source code for the program as well as the <a href='Bank_Database.bak'>Database back up file</a>
 
 <img src = code.png>
+
 # Java OOP Final Project
 The banking system has 3 main products which include, a savings account, chequing account or
 a credit account. The savings account is open to anyone of age while the chequing account and
