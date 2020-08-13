@@ -1,5 +1,8 @@
 # Database_Bank
 Java Bank Interface using SQL Server as Backend
+# Source Code
+In this repository you will find all the source code for the program as well as the <a href='Bank_Database.bak'>Database back up file</a>
+
 <img src = code.png>
 # Java OOP Final Project
 The banking system has 3 main products which include, a savings account, chequing account or
@@ -23,5 +26,3 @@ money and who is using their account the most and just learn fun facts about the
 which thousands of people use for their day to day expenses. This system was made on the idea
 of withstanding a catastrophic event by maintaining financial stability within an economy so
 people don’t need to worry about where their money is going and coming as we take care of that.
-# Source Code
-In this repository you will find all the source code for the program as well as the <a href='Bank_Database.bak'>Database back up file</a>
