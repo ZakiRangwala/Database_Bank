@@ -10,6 +10,7 @@ credit account is for individuals above 18. Currently, customers can only have o
 account but can make unlimited transactions without any extra fees or commission to ensure
 customer satisfaction and financial stability. In addition, the system has many functionalities that
 customers can utilize to have splendid baking experience.
+
 One of the first options allows the customer to create an account in which they can have all of
 the accounts if they wanted if they are above 18 and are uniquely identified by their SIN number
 which is kept safe and secure from wandering burglars. In addition, the customer can later delete
@@ -22,6 +23,8 @@ in conclusion allow fluidity between customer’s funds. All these transactions 
 our state of the art database and can be accessed to make sure all transactions went smoothly.
 Then there is an additional explore sub-menu which allows customers to check who has the most
 money and who is using their account the most and just learn fun facts about the bank system
-which thousands of people use for their day to day expenses. This system was made on the idea
+which thousands of people use for their day to day expenses. 
+
+This system was made on the idea
 of withstanding a catastrophic event by maintaining financial stability within an economy so
 people don’t need to worry about where their money is going and coming as we take care of that.
